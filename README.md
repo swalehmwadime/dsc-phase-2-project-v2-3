@@ -11,7 +11,7 @@ In this project description, we will cover:
 * Project Overview: the project goal, audience, and dataset
 * Deliverables: the specific items you are required to produce for this project
 * Grading: how your project will be scored
-* Getting Started: guidance for how to begin working
+* Getting Started: guidance for how to begin working///
 
 ## Project Overview
 
