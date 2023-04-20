@@ -1,4 +1,4 @@
-![king_county_logo](./images/king_county_logo.png)
+![picture](./images/picture.jpg)
 
 
 # King County House Analysis
