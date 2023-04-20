@@ -36,7 +36,7 @@ We removed outliers from our variables.
 
 ## Methodology
 We used pandas and numpy explore the data. Sklearn and statsmodel.api to determine R scores and the root mean squared error. Matplotlib, seaborn, and folium  were used for visualizations. We droped duplicates and filled nulls with the most common value in the column. Then we one hot encoded categorical variables. Next we ran a train-test split on the data and removed outliers to avoid data leakage. Additionally, we standard scaled our train and test, ran numerous models comparing different features, and proceeded to visualize our findings.
-![Corelation_Heatmap](./images/Corelation_Heatmap.png)
+![Correlation_Heatmap](./images/Correlation_Heatmap.png)
 
 ## Modelling
 
